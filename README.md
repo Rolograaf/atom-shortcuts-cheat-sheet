@@ -121,6 +121,15 @@ A shortcuts cheat sheet for Atom on Windows.
 | Ctrl-Alt-} | Unfold All Code               |
 
 
+## Editor (Snippets)
+
+| Keystrokes  | Task                   |
+| ----------  | -----                  |
+| Tab         | Expand Snippet         |
+| Tab         | Next Tabstop           |
+| Shift-Tab   | Previous Tabstop       |
+| Alt-Shift-S | Available Snippets    |
+
 ## Editor (Character Transformations)
 
 | Keystrokes | Task                   |
